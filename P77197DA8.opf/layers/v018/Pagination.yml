@@ -378,93 +378,93 @@ annotations:
     reference: ''
     span:
       start: 72445
-      end: 73820
+      end: 73818
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   e0e54620e21e4857b5f904d948c7f485:
     imgnum: 1175
     reference: ''
     span:
-      start: 73822
-      end: 75089
+      start: 73820
+      end: 75086
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   abeee9c313a342c695294a6e11b273ac:
     imgnum: 1176
     reference: ''
     span:
-      start: 75091
-      end: 76472
+      start: 75088
+      end: 76469
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   eb023c67dba84037a4c5540ac74a6bf3:
     imgnum: 1177
     reference: ''
     span:
-      start: 76474
-      end: 77797
+      start: 76471
+      end: 77794
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   28ff43d2c6e040dd933dcbc83ddef057:
     imgnum: 1178
     reference: ''
     span:
-      start: 77799
-      end: 79164
+      start: 77796
+      end: 79161
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   642c865fa80747019bde5484171be942:
     imgnum: 1179
     reference: ''
     span:
-      start: 79166
-      end: 80545
+      start: 79163
+      end: 80542
     note_ref: 53a9c18367fa434fa83d922c415118d5
   263c4c214e9f47708702168a2558e710:
     imgnum: 1180
     reference: ''
     span:
-      start: 80547
-      end: 81808
+      start: 80544
+      end: 81805
     note_ref: 53a9c18367fa434fa83d922c415118d5
   8256e0e6b13844f1b2cf6c9a01b411ad:
     imgnum: 1181
     reference: ''
     span:
-      start: 81810
-      end: 83472
+      start: 81807
+      end: 83469
     note_ref: 53a9c18367fa434fa83d922c415118d5
   356ebd18470a47988ffcd510427099d0:
     imgnum: 1182
     reference: ''
     span:
-      start: 83474
-      end: 85849
+      start: 83471
+      end: 85846
   790fe4ab68b44ba2b4dd3c161ac34196:
     imgnum: 1183
     reference: ''
     span:
-      start: 85851
-      end: 88111
+      start: 85848
+      end: 88108
   0ef6634d6457473f89cb04e5539f35f8:
     imgnum: 1184
     reference: ''
     span:
-      start: 88113
-      end: 90321
+      start: 88110
+      end: 90318
   38023748ec1044a88756c80215c492fd:
     imgnum: 1185
     reference: ''
     span:
-      start: 90323
-      end: 92628
+      start: 90320
+      end: 92625
   01dbf90dc5ec462bb18f0ac128c4d21d:
     imgnum: 1186
     reference: ''
     span:
-      start: 92630
-      end: 94809
+      start: 92627
+      end: 94806
   53a9c18367fa434fa83d922c415118d5:
     imgnum: 1187
     reference: ''
     span:
-      start: 94811
-      end: 95554
+      start: 94808
+      end: 95551
 local_ids:
   59c8ad9332714ae8aeccb01035a4dca6: 200000
   9bc07017d0564a349325bade66f26bd6: 200001
