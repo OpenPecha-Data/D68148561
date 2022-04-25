@@ -399,72 +399,72 @@ annotations:
     reference: ''
     span:
       start: 76470
-      end: 77794
+      end: 77792
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   28ff43d2c6e040dd933dcbc83ddef057:
     imgnum: 1178
     reference: ''
     span:
-      start: 77796
-      end: 79161
+      start: 77794
+      end: 79157
     note_ref: 01dbf90dc5ec462bb18f0ac128c4d21d
   642c865fa80747019bde5484171be942:
     imgnum: 1179
     reference: ''
     span:
-      start: 79163
-      end: 80542
+      start: 79159
+      end: 80538
     note_ref: 53a9c18367fa434fa83d922c415118d5
   263c4c214e9f47708702168a2558e710:
     imgnum: 1180
     reference: ''
     span:
-      start: 80544
-      end: 81805
+      start: 80540
+      end: 81856
     note_ref: 53a9c18367fa434fa83d922c415118d5
   8256e0e6b13844f1b2cf6c9a01b411ad:
     imgnum: 1181
     reference: ''
     span:
-      start: 81807
-      end: 83469
+      start: 81858
+      end: 83520
     note_ref: 53a9c18367fa434fa83d922c415118d5
   356ebd18470a47988ffcd510427099d0:
     imgnum: 1182
     reference: ''
     span:
-      start: 83471
-      end: 85846
+      start: 83522
+      end: 85897
   790fe4ab68b44ba2b4dd3c161ac34196:
     imgnum: 1183
     reference: ''
     span:
-      start: 85848
-      end: 88108
+      start: 85899
+      end: 88159
   0ef6634d6457473f89cb04e5539f35f8:
     imgnum: 1184
     reference: ''
     span:
-      start: 88110
-      end: 90318
+      start: 88161
+      end: 90369
   38023748ec1044a88756c80215c492fd:
     imgnum: 1185
     reference: ''
     span:
-      start: 90320
-      end: 92625
+      start: 90371
+      end: 92676
   01dbf90dc5ec462bb18f0ac128c4d21d:
     imgnum: 1186
     reference: ''
     span:
-      start: 92627
-      end: 94806
+      start: 92678
+      end: 94857
   53a9c18367fa434fa83d922c415118d5:
     imgnum: 1187
     reference: ''
     span:
-      start: 94808
-      end: 95551
+      start: 94859
+      end: 95602
 local_ids:
   59c8ad9332714ae8aeccb01035a4dca6: 200000
   9bc07017d0564a349325bade66f26bd6: 200001
